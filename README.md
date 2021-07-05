@@ -10,7 +10,7 @@
 - BodyParser
 - Request Promise
 ## Run
-1. Start the API server (Run node)
+1. Start the API server (Run node) ![Screenshot (218)](https://user-images.githubusercontent.com/84436796/124454579-452fc400-dda6-11eb-9909-97d008457a56.png)
 2. Interact with Network
 3. Add Sample Data in Postman
 ## Traceability
