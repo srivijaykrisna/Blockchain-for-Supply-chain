@@ -1,4 +1,4 @@
-# Blockchain-for-Supply Chain
+# Blockchain-for-Supply chain
 ### Decentralized , Non changeable and Transparent Supply chain  using Blockchain Technology
 ## General Info
 ### This project is for Improving Traceability in Supply Chain using Blockchain
