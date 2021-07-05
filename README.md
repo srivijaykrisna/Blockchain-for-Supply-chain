@@ -1,2 +1,17 @@
 # Blockchain-for-SupplyChain
-Decentralized , Non changeable and Transparent Supply chain  using Blockchain Technology
+### Decentralized , Non changeable and Transparent Supply chain  using Blockchain Technology
+## General Info
+### This project is for Improving Traceability in Supply Chain using Blockchain
+## Prequisities
+- Node.js / npm
+- Postman
+## Dependencies
+- Express
+- BodyParser
+- Request Promise
+## Run
+1. Start the API server (Run node)
+2. Interact with Network
+3. Add Sample Data in Postman
+## Traceability
+Information will be in Hosted server
